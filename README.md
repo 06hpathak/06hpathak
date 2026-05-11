@@ -107,8 +107,8 @@ Modular admin dashboard with real-time REST API integration and customized compo
 
 ## 📄 Research publications
 
-- **Predictive modelling of FFF parts** via FEA and fuzzy inference system - *Taylor & Francis, IJPAC, Sep 2025*
-- **Enhancing NDT through Data Mining & Transfer Learning** - *IJIRT, Vol 11, Issue 7, Dec 2024*
+- **Predictive modelling of FFF parts** via FEA and fuzzy inference system - *Taylor & Francis, IJPAC, Sep 2025*(https://ijirt.org/article?manuscript=171031)
+- **Enhancing NDT through Data Mining & Transfer Learning** - *IJIRT, Vol 11, Issue 7, Dec 2024*(https://www.tandfonline.com/doi/full/10.1080/1023666X.2025.2548943)
 
 ---
 
@@ -125,7 +125,7 @@ Modular admin dashboard with real-time REST API integration and customized compo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pathak-2624041ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/06hpathak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://github.com/06hpathak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-harshpathak.netlify.app/)
 
 ---
 ⭐ Open to ML/AI research collaborations and full-stack roles!
