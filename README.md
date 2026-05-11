@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh Pathak 👋
 
-**Software Developer · ML/AI Enthusiast · Full-Stack MERN · XAI Researcher · Fuzzy Logic & Additive Manufacturing**
+**Software Developer · ML/AI Enthusiast · Full-Stack MERN · XAI Researcher ·**
 📍 Agra, India | 📧 06hpathak@gmail.com
 
 ---
