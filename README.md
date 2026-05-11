@@ -1,18 +1,15 @@
 # Hi there, I'm Harsh Pathak 👋
 
-**Software Developer · ML/AI Enthusiast · Full-Stack MERN · XAI Researcher**
+**Software Developer · ML/AI Enthusiast · Full-Stack MERN · XAI Researcher · Fuzzy Logic & Additive Manufacturing**
 📍 Agra, India | 📧 06hpathak@gmail.com
 
 ---
 
 ## 🙋 About me
 
-Aspiring ML/AI engineer with full-stack MERN experience and active research in Explainable AI (XAI). I build scalable web applications, REST APIs, and cloud-based CI/CD pipelines - with a focus on clean, testable code and responsible ML systems for healthcare and finance.
+ML/AI engineer and full-stack developer with hands-on experience in Explainable AI, fuzzy inference systems, and additive manufacturing research - alongside production MERN development. I build scalable web applications, REST APIs, and cloud-based CI/CD pipelines with a focus on responsible, trustworthy ML systems.
 
-Currently pursuing M.Tech (CS) at Dayalbagh Educational Institute and working as a
-Software & AI Researcher at the Dayal Charitable Foundation on the Enhanced Holistic
-Education System Project - at the intersection of web engineering, machine learning,
-and algorithmic transparency.
+Currently pursuing M.Tech (CS) at Dayalbagh Educational Institute and working as a Software & AI Researcher at the Dayal Charitable Foundation on the Enhanced Holistic Education System Project - at the intersection of web engineering, machine learning, and algorithmic transparency.
 
 ---
 
@@ -22,6 +19,9 @@ and algorithmic transparency.
 - **Healthcare ML** - heart disease prediction, fairness analysis, clinical trustworthiness
 - **Financial AI** - credit scoring, loan decision explainability, regulatory compliance (GDPR, EU AI Act)
 - **Algorithmic fairness** - gender-stratified bias detection in diagnostic AI systems
+- **Fuzzy inference systems** - predictive modelling of manufacturing process parameters using Mamdani/Sugeno fuzzy logic
+- **Additive manufacturing & 3D printing** - ML-based optimization of Fused Filament Fabrication (FFF) parts via FEA and fuzzy models
+- **Non-destructive testing (NDT)** - data mining and transfer learning for defect detection and quality assurance
 
 ---
 
@@ -39,11 +39,14 @@ and algorithmic transparency.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**ML / AI**
+**ML / AI / Research**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-8B5CF6?style=flat)
+![FEA](https://img.shields.io/badge/FEA_Simulation-6366F1?style=flat)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-0EA5E9?style=flat)
 
 **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -66,7 +69,7 @@ Multi-model XAI study on the UCI Cleveland Heart Disease dataset (303 patients, 
 Applied XAI to credit scoring using the German Credit dataset (1,000 rows, 20 features). Used SHAP global summary plots, waterfall plots, force plots, and Partial Dependence Plots (PDP) to explain individual loan approval/rejection decisions. Identified credit amount and loan duration as top risk drivers. Addressed fairness and regulatory compliance (GDPR, EU AI Act, Basel).
 
 ### [Ministry of Education - Virtual Physics Labs](https://ed-dei.vlabs.ac.in/)
-*HTML · CSS · JavaScript · Canvas API | MoE NMEICT Virtual Lab-III (Dec 2022 - Mar 2024)*
+*HTML · CSS · JavaScript · Canvas API | MoE NMEICT Virtual Lab-III (Dec 2022 – Mar 2024)*
 
 Developed **10 interactive mechanical engineering simulations** for the Government of India's National Mission on Education through ICT (NMEICT) Virtual Lab initiative - a platform used by students across Indian universities.
 
@@ -77,7 +80,7 @@ Simulations built:
 - **Spring-Mass system** - SHM and oscillation frequency
 - and 6 more mechanical concepts
 
-Each simulation features real-time calculation, interactive variable manipulation (sliders, inputs), live physics visualization using the Canvas API, and educational annotations. JSON data uploads handled for experiment configuration; collaborated via Git/GitHub.
+Each simulation features real-time calculation, interactive variable manipulation (sliders, inputs), live physics visualization using the Canvas API, and educational annotations.
 
 > 🏛️ Built for the Ministry of Education, Government of India
 
@@ -92,23 +95,28 @@ Dynamic, responsive UI with live RESTful API integration and async data fetching
 Modular admin dashboard with real-time REST API integration and customized component libraries.
 
 ---
+
 ## 💼 Work experience
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software & AI Researcher | Dayal Charitable Foundation | Mar 2026 - Present |
-| Software Developer | TSA Edtech Pvt. Ltd | Apr 2024 - Aug 2025 |
-| Web Dev Intern | MoE NMEICT Virtual Lab-III | Dec 2022 - Mar 2024 |
-| Brand Safety Executive | Pixeltruth Pvt. Ltd | May 2022 - Oct 2022 |
-| Software Dev Intern | Dhwani Rural Information Systems | Jul 2021 - Aug 2021 |
-
+| Software & AI Researcher | Dayal Charitable Foundation | Mar 2026 – Present |
+| Software Developer | TSA Edtech Pvt. Ltd | Apr 2024 – Aug 2025 |
+| Web Dev Intern | MoE NMEICT Virtual Lab-III | Dec 2022 – Mar 2024 |
+| Brand Safety Executive | Pixeltruth Pvt. Ltd | May 2022 – Oct 2022 |
+| Software Dev Intern | Dhwani Rural Information Systems | Jul 2021 – Aug 2021 |
 
 ---
 
 ## 📄 Research publications
 
-- **Predictive modelling of FFF parts** via FEA and fuzzy inference system - *Taylor & Francis, IJPAC, Sep 2025*   (https://www.tandfonline.com/doi/full/10.1080/1023666X.2025.2548943)
-- **Enhancing NDT through Data Mining & Transfer Learning** - *IJIRT, Vol 11, Issue 7, Dec 2024* (https://ijirt.org/article?manuscript=171031)
+- **[Predictive modelling of FFF parts via FEA and fuzzy inference system](https://www.tandfonline.com/doi/full/10.1080/1023666X.2025.2548943)**
+  *International Journal of Polymer Analysis and Characterization, Taylor & Francis - Sep 2025*
+  `Additive Manufacturing` `Fuzzy Logic` `FEA` `3D Printing` `ML`
+
+- **[Enhancing NDT through Data Mining and Transfer Learning](https://ijirt.org/article?manuscript=171031)**
+  *International Journal of Innovative Research in Technology (IJIRT), Vol 11, Issue 7 - Dec 2024*
+  `NDT` `Transfer Learning` `Data Mining` `ML`
 
 ---
 
