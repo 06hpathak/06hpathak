@@ -107,8 +107,8 @@ Modular admin dashboard with real-time REST API integration and customized compo
 
 ## 📄 Research publications
 
-- **Predictive modelling of FFF parts** via FEA and fuzzy inference system - *Taylor & Francis, IJPAC, Sep 2025*(https://ijirt.org/article?manuscript=171031)
-- **Enhancing NDT through Data Mining & Transfer Learning** - *IJIRT, Vol 11, Issue 7, Dec 2024*(https://www.tandfonline.com/doi/full/10.1080/1023666X.2025.2548943)
+- **Predictive modelling of FFF parts** via FEA and fuzzy inference system - *Taylor & Francis, IJPAC, Sep 2025*   (https://www.tandfonline.com/doi/full/10.1080/1023666X.2025.2548943)
+- **Enhancing NDT through Data Mining & Transfer Learning** - *IJIRT, Vol 11, Issue 7, Dec 2024* (https://ijirt.org/article?manuscript=171031)
 
 ---
 
