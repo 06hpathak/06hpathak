@@ -68,7 +68,7 @@ Multi-model XAI study on the UCI Cleveland Heart Disease dataset (303 patients, 
 
 Applied XAI to credit scoring using the German Credit dataset (1,000 rows, 20 features). Used SHAP global summary plots, waterfall plots, force plots, and Partial Dependence Plots (PDP) to explain individual loan approval/rejection decisions. Identified credit amount and loan duration as top risk drivers. Addressed fairness and regulatory compliance (GDPR, EU AI Act, Basel).
 
-### [Ministry of Education - Virtual Physics Labs](https://ed-dei.vlabs.ac.in/)
+### [Ministry of Education - Enginnering Dynamics Labs](https://ed-dei.vlabs.ac.in/)
 *HTML · CSS · JavaScript · Canvas API | MoE NMEICT Virtual Lab-III (Dec 2022 – Mar 2024)*
 
 Developed **10 interactive mechanical engineering simulations** for the Government of India's National Mission on Education through ICT (NMEICT) Virtual Lab initiative - a platform used by students across Indian universities.
